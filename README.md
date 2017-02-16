@@ -1,14 +1,13 @@
 # Technical Test for Drupal Developer
 
 This is a simple [Drupal](http://drupal.org/) 7 test. 
-Please make a repository in bitbucket and share with your work with database dump to 'mizoshiri' and email to us.
+Please make a repository in bitbucket and share your work with a database dump to 'mizoshiri' and email us.
 
-You will be judged on following :
-- That you have successfully completed the task and fulfils its function
-- How you have achieved this goal
-- The time it took from download of file to upload of completed work
+Successful outcomes are:
+- That you have successfully completed the task and fulfill its function
+- How you have achieved this task
 
-Good luck
+
 
 ## The Tasks
 
@@ -16,21 +15,21 @@ Good luck
 
 * Install site using 'minimal' profile
 * Create an 'event' content type that has title, description, date, and address
-* Build a view with two page displays
+* Build a view with two page displays as below
     * Upcoming events (/events/upcoming)
     * Past events (/events/past)
-* Each event detail page has a form, user can submit form and admin get email with event page URL.
+* Each event detail page has a form, user can submit form and get email notification to ayumi.mizoshiri@adg.com.au with event page URL.
     * Form fields: name,email, detail(textarea)
     * Please add jQuery Validation, name, email are required
-    * Don't need save submit data in database
-    * Email type is text or html either fine
+    * Don't need to save submitted data in database
+    * Email type can be text or html
 * Export the events content type and views to a Feature
 
 ### Theming
 
 * Create a custom template for the event content type
 
-### Memo
+### Note
 
 * Please use mysql for database
-* You can use any modules you need
+* You can use any module as required
