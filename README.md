@@ -18,7 +18,7 @@ Successful outcomes are:
 * Build a view with two page displays as below
     * Upcoming events (/events/upcoming)
     * Past events (/events/past)
-* Each event detail page has a form, user can submit form and get email notification to ayumi.mizoshiri@adg.com.au with event page URL.
+* Each event detail page has a form, user can submit form and get email notification to liang-han.chiang@adg.com.au with event page URL.
     * Form fields: name,email, detail(textarea)
     * Please add jQuery Validation, name, email are required
     * Don't need to save submitted data in database
