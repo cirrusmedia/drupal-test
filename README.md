@@ -1,7 +1,7 @@
 # Technical Test for Drupal Developer
 
 This is a simple [Drupal](http://drupal.org/) 7 test. 
-Please make a repository in bitbucket and share your work with a database dump to 'mizoshiri' and email us.
+Please make a repository in bitbucket and share your work with a database dump to 'loganchiang' and email to Geo.jose@adg.com.au.
 
 Successful outcomes are:
 - That you have successfully completed the task and fulfill its function
